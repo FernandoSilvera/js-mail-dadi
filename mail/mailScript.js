@@ -20,4 +20,3 @@ if (emailCheck) {
 } else {
   alert("La tua mail NON è presente nel database.");
 }
-
